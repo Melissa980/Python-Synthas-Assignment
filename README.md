@@ -1,1 +1,1 @@
-# Python-Synthas-Assignment
+# Python-Synthax-Assignment
